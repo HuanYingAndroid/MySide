@@ -1,0 +1,59 @@
+<resources>
+    <string name="app_name">MySide</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+
+    <!--数据操作提示 -->
+    <string name="isRegister">正在注册</string>
+    <string name="save_success">注册成功</string>
+    <string name="save_fail">注册失败</string>
+    <string name="isLogining">正在登录.....</string>
+    <string name="login_success">登录成功</string>
+    <string name="isChecking">检测用户.....</string>
+    <string name="get_online_fail">获取在线好友失败</string>
+    <string name="isrefreshing">正在刷新</string>
+    <string name="refresh_success">刷新成功</string>
+
+    <!--控件上的文字 -->
+    <string name="remember_name">记住用户名</string>
+    <string name="tip">提示:为了确认用户信息的可靠性,在登录时会先检测用户信息,检测通过后才会执行</string>
+
+    <!--网络提示 -->
+    <string name="notAvailable">请先检查网络是否连接</string>
+
+    <string name="default_progressbar">Default Progressbar</string>
+
+
+
+
+    <string name="main_text">Options:</string>
+    <string name="option_progress">Progress:</string>
+    <string name="option_bar_color">Bar color:</string>
+    <string name="option_wheel_color">Wheel color:</string>
+    <string name="interpolated">Interpolated progress:</string>
+    <string name="linear">Linear progress:</string>
+    <string name="ok">OK</string>
+    <string name="about">About</string>
+    <string name="about_text">This app is for demonstrate the Material-ish progress wheel library, which provides a Material-style progress wheel compatible back to API 9. You can have indeterminate and determinate versions of the progress wheel, the later with a linear animation or a interpolated one like in the guidelines.\n\nRefer to the Github project page for more info at https://github.com/pnikosis/materialish-progress. </string>
+    <string-array name="progress_value_options">
+        <item>Cycle between 0% and 100%</item>
+        <item>0%</item>
+        <item>10%</item>
+        <item>25%</item>
+        <item>50%</item>
+        <item>75%</item>
+        <item>100%</item>
+    </string-array>
+    <string-array name="progress_color_options">
+        <item>Default</item>
+        <item>Red</item>
+        <item>Magenta</item>
+    </string-array>
+    <string-array name="wheel_color_options">
+        <item>Default</item>
+        <item>Light Gray</item>
+        <item>Gray</item>
+    </string-array>
+</resources>

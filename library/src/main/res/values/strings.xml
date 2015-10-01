@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Profile Interface</string>
+
+    <string name="lorem_ipsum_short">这是这位好友的简单的介绍 </string>
+    <string name="lorem_ipsum_long">这是这位好友非常详细地介绍，哈哈哈哈哈哈哈哈哈哈哈啊哈哈 </string>
+
+    <string name="title_following">好友列表</string>
+    <string name="toolbar_bio">简历</string>
+    <string name="toolbar_details">详情</string>
+</resources>
